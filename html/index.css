@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&display=swap');
+
+body {
+    background: none !important;
+}
+
+li {
+    font-family: 'Autour One', sans-serif;
+    color: white;
+    font-size: 120%;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+h2 {
+    font-family: 'Autour One', sans-serif;
+}
+
+#bl {
+    font-size: 20px;
+    padding: 150px 25px;
+    color: #c6c1b7;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
